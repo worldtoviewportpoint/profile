@@ -38,6 +38,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ando/ando/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ando/count.svg?"  />
+</div>
+
+###
+
+<h1 align="center">worldtoviewportpoint on discord</h1>
 
 ###
